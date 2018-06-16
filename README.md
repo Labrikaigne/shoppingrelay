@@ -1,7 +1,7 @@
 # Shoppingrelay
 
 ## Description
-API de gestion des données applicatives contextuelles
+Assistant de boutique en ligne
 
 ## Installation
 
@@ -12,4 +12,4 @@ cd shoppingrelay
 
 ## Documentation
 
-La documentation de l'API est disponible à la racine.
+La documentation de l'installation du  disponible à la racine.

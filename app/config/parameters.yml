@@ -1,0 +1,12 @@
+# This file is auto-generated during the composer install
+parameters:
+    database_host: 127.0.0.1
+    database_port: null
+    database_name: shoppingrelay
+    database_user: shoppingrelay
+    database_password: shoppingrelay
+    mailer_transport: smtp
+    mailer_host: 127.0.0.1
+    mailer_user: dev@shoppingrelay.com
+    mailer_password: dev.shoppingrelay
+    secret: ThisTokenIsNotSoSecretChangeIt

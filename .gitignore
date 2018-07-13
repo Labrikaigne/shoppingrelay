@@ -1,7 +1,22 @@
-
-###> symfony/framework-bundle ###
-/.env
-/public/bundles/
-/var/
+/build/
+/phpunit.xml
+/var/*
+!/var/cache
+/var/cache/*
+!var/cache/.gitkeep
+!/var/logs
+/var/logs/*
+!var/logs/.gitkeep
+!/var/sessions
+/var/sessions/*
+!var/sessions/.gitkeep
+/var/input/*
+!/var/output
+/var/output/*
+!var/SymfonyRequirements.php
+!var/schema
 /vendor/
-###< symfony/framework-bundle ###
+/web/bundles/
+
+#idea
+.idea/
